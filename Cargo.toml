@@ -1,0 +1,6 @@
+[package]
+name = "binary_search_tree"
+version = "0.1.0"
+authors = ["Howard Huang <howeih@gmail.com>"]
+
+[dependencies]
